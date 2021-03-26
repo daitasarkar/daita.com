@@ -1,1 +1,1 @@
-This is my rough portfolio. Trying out git github and vscode for the first time so trying to get my hands dirty
+This is my rough portfolio. Trying out git github and vscode for the first time so getting my hands dirty
