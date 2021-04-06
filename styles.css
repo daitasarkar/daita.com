@@ -33,7 +33,9 @@ hr {
     text-decoration: none;
     /**to remove underline**/
     padding: 0.5rem 1.5rem;
-    margin: 0rem, 2rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    margin-right: 1rem;
     /**padding top right, top copied to bottom and right to left automatically**/
 }
 
@@ -92,7 +94,7 @@ hr {
 }
 
 .hero .hero-img {
-    max-width: 400px;
+    max-width: 350px;
     display: block;
     margin: auto;
 }
